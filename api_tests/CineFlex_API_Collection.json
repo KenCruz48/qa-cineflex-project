@@ -1,0 +1,229 @@
+{
+  "info": {
+    "name": "CineFlex QA",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "01 Login JWT",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK',()=>pm.response.to.have.status(200));",
+              "pm.test('JSON',()=>pm.response.to.be.json);",
+              "pm.test('Token JWT',()=>pm.expect(pm.response.json().token).to.match(/^[^.]+\\.[^.]+\\.[^.]+$/));",
+              "if(pm.response.code===200)pm.environment.set('jwt_token',pm.response.json().token);"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/auth/login",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"email\":\"{{email}}\",\"password\":\"{{password}}\"}"
+        }
+      }
+    },
+    {
+      "name": "02 Cartelera protegida",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK',()=>pm.response.to.have.status(200));",
+              "pm.test('JSON válido',()=>pm.response.to.be.json);",
+              "pm.test('Tres películas',()=>pm.expect(pm.response.json().data).to.have.lengthOf(3));",
+              "pm.test('SLA menor a 300 ms',()=>pm.expect(pm.response.responseTime).to.be.below(300));"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/movies"
+      }
+    },
+    {
+      "name": "03 Asientos disponibles",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK',()=>pm.response.to.have.status(200));",
+              "pm.test('18 asientos',()=>pm.expect(pm.response.json().data).to.have.lengthOf(18));",
+              "pm.test('Hay asiento libre',()=>pm.expect(pm.response.json().data.some(s=>!s.occupied)).to.equal(true));",
+              "const free=pm.response.json().data.find(s=>!s.occupied);if(free)pm.environment.set('seat',free.seat);"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/movies/1/seats"
+      }
+    },
+    {
+      "name": "04 Tarjeta falsa rechazada",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('402 Payment Required',()=>pm.response.to.have.status(402));",
+              "pm.test('Código bancario',()=>pm.expect(pm.response.json().code).to.equal('PAYMENT_DECLINED'));",
+              "pm.test('Mensaje exacto',()=>pm.expect(pm.response.json().message).to.equal('Tarjeta rechazada por el banco simulado'));"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/reservations",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"movieId\":1,\"seat\":\"{{seat}}\",\"card\":\"4000000000000002\"}"
+        }
+      }
+    },
+    {
+      "name": "05 Rechazo no ocupa asiento",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('200 OK',()=>pm.response.to.have.status(200));",
+              "pm.test('JSON válido',()=>pm.response.to.be.json);",
+              "pm.test('Asiento sigue libre',()=>pm.expect(pm.response.json().data.find(s=>s.seat===pm.environment.get('seat')).occupied).to.equal(0));"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/movies/1/seats"
+      }
+    },
+    {
+      "name": "06 Cerrar sesión",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('204',()=>pm.response.to.have.status(204));",
+              "pm.test('Sin contenido',()=>pm.expect(pm.response.text()).to.equal(''));",
+              "pm.test('Sin caché',()=>pm.expect(pm.response.headers.get('Cache-Control')).to.equal('no-store'));"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/auth/logout",
+        "body": {
+          "mode": "raw",
+          "raw": "{}"
+        }
+      }
+    },
+    {
+      "name": "07 Token revocado",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('401',()=>pm.response.to.have.status(401));",
+              "pm.test('Mensaje de sesión',()=>pm.expect(pm.response.json().message).to.equal('Sesión inválida o expirada'));",
+              "pm.test('Sin catálogo',()=>pm.expect(pm.response.json()).not.to.have.property('data'));"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{jwt_token}}"
+          }
+        ],
+        "url": "{{base_url}}/movies"
+      }
+    }
+  ]
+}
