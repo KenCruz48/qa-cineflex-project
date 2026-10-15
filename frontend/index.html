@@ -1,7 +1,213 @@
 <!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CineFlex | Tu próxima historia</title><link rel="stylesheet" href="styles.css"><script src="app.js" defer></script></head>
-<body><header><a href="#cartelera" class="brand">CINE<span>FLEX</span></a><span>GRANDES HISTORIAS. TU ASIENTO.</span><button id="logout-btn" hidden>Cerrar sesión</button></header>
-<main><section id="login-section" class="panel"><p class="eyebrow">LA FUNCIÓN EMPIEZA CONTIGO</p><h1>Tu próxima historia<br>está a un clic.</h1><p>Ingresa y encuentra tu lugar en la sala.</p><form id="login-form"><label for="email-input">Correo electrónico</label><input id="email-input" type="email" required autocomplete="username"><label for="password-input">Contraseña</label><input id="password-input" type="password" required autocomplete="current-password"><button id="login-btn">Entrar a CineFlex</button></form><p id="login-error" role="alert"></p><small>Demo: qa@cineflex.test · CineFlex2026!</small></section>
-<section id="catalog-section" hidden><p class="eyebrow">EN LA GRAN PANTALLA</p><h1 id="cartelera-title">Cartelera</h1><label for="genre-filter">Filtrar por género</label><select id="genre-filter"><option value="">Todos los géneros</option><option>Ciencia ficción</option><option>Suspenso</option><option>Comedia</option></select><div id="movie-list" class="movies"></div></section>
-<section id="reservation-section" class="panel" hidden><button id="back-btn" class="secondary">Volver a cartelera</button><h1 id="movie-title"></h1><p class="screen">PANTALLA</p><div id="seats" class="seats" aria-label="Asientos"></div><p>Elige un asiento libre. Los asientos grises están ocupados.</p><p id="selection">Ningún asiento seleccionado</p><form id="payment-form"><label for="card-input">Tarjeta de prueba (16 dígitos)</label><input id="card-input" required pattern="[0-9]{16}" inputmode="numeric" maxlength="16" autocomplete="off"><small>Aprobada: 4111111111111111 · Cualquier otra: rechazada</small><button id="pay-btn" disabled>Confirmar compra</button></form><p id="payment-error" role="alert"></p></section>
-<section id="ticket-section" class="panel" hidden><p class="eyebrow">¡NOS VEMOS EN EL CINE!</p><h1>Ticket virtual</h1><div id="ticket" role="status"></div><button id="new-purchase-btn">Volver a cartelera</button></section><p id="global-error" role="alert"></p></main><footer>CineFlex · Laboratorio QA · Pagos simulados</footer></body></html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#181818" />
+    <title>CineFlex | Historias para la gran pantalla</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="#cartelera" class="brand" aria-label="CineFlex inicio"
+          ><span class="brand-symbol" aria-hidden="true">c<span>f</span></span
+          >CINEFLEX<span class="brand-dot">®</span></a
+        >
+        <nav aria-label="Navegación principal">
+          <a href="#cartelera">Películas</a
+          ><a href="#como-reservar">Tu experiencia</a>
+        </nav>
+        <div class="header-account">
+          <span class="location"><span aria-hidden="true">⌖</span> Bogotá</span
+          ><button id="logout-btn" class="logout" hidden>
+            Cerrar sesión <span aria-hidden="true">↗</span>
+          </button>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section id="login-section" class="login-layout">
+        <div class="login-visual">
+          <div class="login-visual-copy">
+            <span class="overline">LA VIDA SE VE MEJOR EN EL CINE</span>
+            <h1>Desconecta del mundo.<br />Entra en una historia.</h1>
+            <p>
+              Una gran pantalla. Un buen asiento.<br />El resto, déjaselo a la
+              película.
+            </p>
+            <span class="visual-caption">ÓRBITA FINAL · EN CARTELERA</span>
+          </div>
+        </div>
+        <div class="login-content">
+          <span class="overline">BIENVENIDO A CINEFLEX</span>
+          <h2>Tu próxima función<br />empieza aquí.</h2>
+          <p class="muted">
+            Inicia sesión para elegir tu película y reservar tu lugar.
+          </p>
+          <form id="login-form">
+            <label for="email-input">Correo electrónico</label
+            ><input
+              id="email-input"
+              type="email"
+              required
+              autocomplete="username"
+              placeholder="tu@correo.com"
+            /><label for="password-input">Contraseña</label
+            ><input
+              id="password-input"
+              type="password"
+              required
+              autocomplete="current-password"
+              placeholder="Tu contraseña"
+            /><button id="login-btn">Entrar a CineFlex</button>
+          </form>
+          <p id="login-error" role="alert"></p>
+          <details class="demo-access">
+            <summary>¿Estás explorando la demo?</summary>
+            <p>Correo: qa@cineflex.test<br />Contraseña: CineFlex2026!</p>
+          </details>
+          <p class="login-note">Tu asiento te está esperando.</p>
+        </div>
+      </section>
+      <section id="catalog-section" hidden>
+        <div class="cinema-hero">
+          <div class="hero-copy">
+            <span class="overline">EL PLAN ES IR AL CINE</span>
+            <h1>Hay historias que<br />merecen una sala.</h1>
+            <p>Encuentra tu película. Nosotros ponemos la gran pantalla.</p>
+            <a href="#billboard" class="hero-link"
+              >Explora la cartelera <span aria-hidden="true">↓</span></a
+            >
+          </div>
+          <div class="hero-film">
+            <span class="film-tag">DESTACADA DE LA SEMANA</span
+            ><strong>ÓRBITA<br />FINAL</strong
+            ><span>Ciencia ficción · 2D · Subtitulada</span>
+          </div>
+        </div>
+        <div id="billboard" class="billboard">
+          <div class="catalog-heading">
+            <div>
+              <span class="overline">TU PRÓXIMA HISTORIA</span>
+              <h2 id="cartelera-title">Cartelera</h2>
+            </div>
+            <div class="filter-control">
+              <label for="genre-filter">Explora por género</label
+              ><select id="genre-filter">
+                <option value="">Todos los géneros</option>
+                <option>Ciencia ficción</option>
+                <option>Suspenso</option>
+                <option>Comedia</option>
+              </select>
+            </div>
+          </div>
+          <div class="catalog-caption">
+            <span>En la gran pantalla</span
+            ><span id="movie-count">3 películas</span>
+          </div>
+          <div id="movie-list" class="movies"></div>
+        </div>
+      </section>
+      <section id="reservation-section" hidden>
+        <button id="back-btn" class="text-button">← Volver a cartelera</button>
+        <div id="reservation-banner" class="reservation-banner">
+          <div>
+            <span class="overline">TU PRÓXIMA FUNCIÓN</span>
+            <h1 id="movie-title"></h1>
+            <p id="movie-meta"></p>
+            <p id="movie-synopsis"></p>
+          </div>
+        </div>
+        <div class="booking-steps">
+          <span class="active">01 <b>Elige tu asiento</b></span
+          ><span>02 <b>Confirma tu compra</b></span
+          ><span>03 <b>Disfruta la función</b></span>
+        </div>
+        <div class="booking-layout">
+          <div class="seat-panel">
+            <div class="section-heading">
+              <h2>El mejor lugar es el tuyo.</h2>
+              <span>Sala 01 · 2D</span>
+            </div>
+            <p class="muted">Selecciona un asiento disponible en el mapa.</p>
+            <div class="auditorium">
+              <p class="screen">PANTALLA</p>
+              <div id="seats" class="seats" aria-label="Asientos"></div>
+            </div>
+            <div class="seat-legend">
+              <span><i></i>Disponible</span
+              ><span><i class="chosen"></i>Tu selección</span
+              ><span><i class="occupied"></i>Ocupado</span>
+            </div>
+          </div>
+          <aside class="checkout-panel">
+            <span class="overline">RESUMEN DE TU VISITA</span>
+            <h2>Nos vemos en el cine.</h2>
+            <p id="booking-film"></p>
+            <div class="selection-box">
+              <span>Asiento y valor de entrada</span>
+              <p id="selection">Ningún asiento seleccionado</p>
+            </div>
+            <form id="payment-form">
+              <label for="card-input">Tarjeta de prueba</label
+              ><input
+                id="card-input"
+                required
+                pattern="[0-9]{16}"
+                inputmode="numeric"
+                maxlength="16"
+                autocomplete="off"
+                placeholder="0000 0000 0000 0000"
+              /><small>Pago simulado. Usa 4111111111111111 para aprobar.</small
+              ><button id="pay-btn" disabled>Confirmar compra</button>
+            </form>
+            <p id="payment-error" role="alert"></p>
+            <div class="secure-note">
+              ⌑ Pago de demostración · Sin cobros reales
+            </div>
+          </aside>
+        </div>
+      </section>
+      <section id="ticket-section" class="ticket-section" hidden>
+        <div class="ticket-check" aria-hidden="true">✓</div>
+        <span class="overline">TODO LISTO PARA TU FUNCIÓN</span>
+        <h1>Nos vemos<br />frente a la pantalla.</h1>
+        <p class="muted">
+          Tu compra está confirmada. Este es tu ticket virtual.
+        </p>
+        <div class="ticket-paper">
+          <div class="ticket-top">
+            <strong>CINEFLEX</strong><span>ENTRADA DIGITAL</span>
+          </div>
+          <div id="ticket" role="status"></div>
+          <div class="ticket-bottom">
+            <span>SALA 01 · 2D</span>
+            <div class="barcode" aria-hidden="true"></div>
+          </div>
+        </div>
+        <button id="new-purchase-btn">Volver a cartelera</button>
+      </section>
+      <p id="global-error" role="alert"></p>
+    </main>
+    <footer id="como-reservar">
+      <div class="footer-inner">
+        <div>
+          <a class="brand" href="#cartelera"
+            >CINEFLEX<span class="brand-dot">®</span></a
+          >
+          <p>Historias que se viven en pantalla grande.</p>
+        </div>
+        <div class="footer-how">
+          <span>ELIGE TU PELÍCULA</span><span>ENCUENTRA TU ASIENTO</span
+          ><span>DISFRUTA LA FUNCIÓN</span>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 CineFlex</span
+        ><span>Experiencia de demostración · Pagos simulados</span>
+      </div>
+    </footer>
+  </body>
+</html>
