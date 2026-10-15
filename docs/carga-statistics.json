@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2.045999999999996,
+    "medianResTime" : 2.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 54.0,
+    "pct1ResTime" : 2.0,
+    "pct2ResTime" : 3.0,
+    "pct3ResTime" : 9.990000000000009,
+    "throughput" : 67.41724533135576,
+    "receivedKBytesPerSec" : 83.87653374233129,
+    "sentKBytesPerSec" : 21.726260702487696
+  },
+  "Login" : {
+    "transaction" : "Login",
+    "sampleCount" : 500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2.6140000000000003,
+    "medianResTime" : 2.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 54.0,
+    "pct1ResTime" : 3.0,
+    "pct2ResTime" : 3.0,
+    "pct3ResTime" : 53.8900000000001,
+    "throughput" : 33.71316836356281,
+    "receivedKBytesPerSec" : 37.86146837704808,
+    "sentKBytesPerSec" : 8.0332158991302
+  },
+  "Asientos disponibles" : {
+    "transaction" : "Asientos disponibles",
+    "sampleCount" : 500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1.478,
+    "medianResTime" : 1.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 13.0,
+    "pct1ResTime" : 2.0,
+    "pct2ResTime" : 2.0,
+    "pct3ResTime" : 6.990000000000009,
+    "throughput" : 33.90290208841877,
+    "receivedKBytesPerSec" : 46.2854073433686,
+    "sentKBytesPerSec" : 13.773053973420126
+  }
+}

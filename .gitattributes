@@ -1,0 +1,8 @@
+* text=auto
+*.pdf binary
+*.png binary
+*.jtl text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.jmx text eol=lf

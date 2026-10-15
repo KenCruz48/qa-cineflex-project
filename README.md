@@ -126,6 +126,16 @@ La configuración de 500 hilos con peticiones breves no prueba que 500 conexione
 
 Ver [evidencias y resultados](docs/resultados.md).
 
+Ejecución local del 15 de octubre de 2026: **1.000 peticiones, 0,00 % errores, 67,4 peticiones/s en Summary Report** (33,9 consultas de asientos/s). Son 500 logins y 500 consultas. El resumen de consola muestra 66,7/s al incluir el intervalo global del arranque; Summary Report usa el intervalo de las muestras.
+
+![Summary Report real de JMeter cargado desde el JTL](docs/jmeter-summary.png)
+
+La imagen renderiza el componente Summary Report de JMeter con las muestras reales de [carga.jtl](docs/carga.jtl), sin editar métricas. También se conserva [statistics.json](docs/carga-statistics.json). Las cifras son resultados locales, no una certificación de producción.
+
+## Vista de la aplicación
+
+![Cartelera de CineFlex en Chrome](docs/cartelera.png)
+
 ## Continuous Testing
 
 GitHub Actions ejecuta con cada push y pull request: instalación `npm ci`, Supertest, arranque con healthcheck, Newman y Selenium. Un fallo marca el job `qa` como fallido y conserva diagnósticos.

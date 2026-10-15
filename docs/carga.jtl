@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792071441399,12,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-7,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,8,0,2
+1792071441356,54,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-1,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,50,0,29
+1792071441368,43,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-6,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,39,0,18
+1792071441429,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-8,text,true,,1150,244,8,8,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441356,54,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-3,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,50,0,29
+1792071441356,54,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-2,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,50,0,29
+1792071441357,54,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-5,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,50,0,29
+1792071441357,54,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-4,text,true,,1150,244,7,7,http://127.0.0.1:3000/api/v1/auth/login,50,0,29
+1792071441441,3,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-3,text,true,,1398,416,8,8,http://127.0.0.1:3000/api/v1/movies/1/seats,3,0,0
+1792071441441,4,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-4,text,true,,1398,416,8,8,http://127.0.0.1:3000/api/v1/movies/1/seats,4,0,0
+1792071441441,6,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-5,text,true,,1398,416,6,6,http://127.0.0.1:3000/api/v1/movies/1/seats,6,0,0
+1792071441441,7,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-6,text,true,,1398,416,5,5,http://127.0.0.1:3000/api/v1/movies/1/seats,7,0,0
+1792071441441,9,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-8,text,true,,1398,416,4,4,http://127.0.0.1:3000/api/v1/movies/1/seats,8,0,0
+1792071441441,10,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-1,text,true,,1398,416,3,3,http://127.0.0.1:3000/api/v1/movies/1/seats,10,0,0
+1792071441441,11,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-7,text,true,,1398,416,2,2,http://127.0.0.1:3000/api/v1/movies/1/seats,11,0,0
+1792071441441,13,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-2,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,13,0,0
+1792071441457,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-9,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441460,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-9,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441488,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-10,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441492,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-10,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071441517,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-11,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441520,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-11,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071441548,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-12,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441551,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-12,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441577,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-13,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441580,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-13,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441607,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-14,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441611,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-14,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441638,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-15,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071441641,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-15,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441668,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-16,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441671,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-16,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441697,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-17,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441700,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-17,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441727,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-18,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071441731,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-18,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441757,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-19,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441760,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-19,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441787,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-20,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441791,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-20,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441818,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-21,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071441820,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-21,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441847,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-22,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071441850,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-22,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441877,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-23,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441880,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-23,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071441908,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-24,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441912,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-24,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071441937,4,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-25,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071441941,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-25,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071441968,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-26,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071441971,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-26,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071441997,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-27,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442000,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-27,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442028,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-28,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442031,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-28,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442060,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-29,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442063,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-29,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442087,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-30,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442090,3,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-30,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,3,0,0
+1792071442117,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-31,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442119,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-31,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442148,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-32,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071442151,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-32,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442178,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-33,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442182,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-33,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442207,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-34,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442210,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-34,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442238,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-35,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071442240,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-35,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442267,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-36,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071442269,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-36,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442297,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-37,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442301,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-37,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442327,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-38,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442330,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-38,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442356,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-39,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071442360,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-39,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442387,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-40,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442391,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-40,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442417,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-41,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442419,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-41,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442447,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-42,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442450,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-42,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442476,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-43,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442479,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-43,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442507,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-44,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442510,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-44,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442538,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-45,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442541,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-45,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442568,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-46,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442572,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-46,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442597,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-47,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442600,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-47,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442627,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-48,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442629,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-48,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442657,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-49,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442660,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-49,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442687,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-50,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442690,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-50,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442717,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-51,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071442719,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-51,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442747,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-52,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071442750,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-52,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442777,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-53,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442781,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-53,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442808,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-54,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071442810,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-54,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071442837,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-55,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442840,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-55,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442866,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-56,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442869,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-56,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442896,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-57,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442900,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-57,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442926,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-58,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071442929,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-58,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442957,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-59,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442959,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-59,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071442987,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-60,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071442990,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-60,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443019,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-61,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443022,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-61,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443047,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-62,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443050,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-62,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443078,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-63,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071443081,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-63,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443107,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-64,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443110,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-64,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443136,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-65,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443139,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-65,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443166,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-66,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071443170,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-66,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443197,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-67,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443200,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-67,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443226,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-68,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071443230,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-68,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443257,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-69,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443260,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-69,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443287,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-70,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443289,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-70,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443316,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-71,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443318,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-71,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443348,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-72,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071443352,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-72,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443377,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-73,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443380,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-73,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443406,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-74,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443408,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-74,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443436,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-75,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443439,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-75,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443467,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-76,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071443469,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-76,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443497,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-77,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443500,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-77,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443528,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-78,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443530,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-78,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443556,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-79,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443559,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-79,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443586,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-80,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443589,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-80,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443617,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-81,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443620,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-81,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443646,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-82,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443649,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-82,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443676,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-83,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443679,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-83,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443706,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-84,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443709,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-84,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443736,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-85,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443739,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-85,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443767,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-86,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443770,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-86,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443797,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-87,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071443799,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-87,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443826,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-88,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443829,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-88,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443856,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-89,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443859,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-89,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443886,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-90,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443889,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-90,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443916,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-91,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443919,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-91,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071443946,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-92,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443949,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-92,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071443977,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-93,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071443979,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-93,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444007,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-94,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444009,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-94,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444036,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-95,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444038,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-95,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444066,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-96,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071444070,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-96,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444097,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-97,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444100,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-97,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444127,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-98,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444130,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-98,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444157,4,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-99,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,4,0,2
+1792071444162,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-99,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444186,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-100,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444189,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-100,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444217,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-101,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444219,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-101,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444247,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-102,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444249,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-102,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444275,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-103,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444278,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-103,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444305,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-104,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444308,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-104,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444335,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-105,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071444337,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-105,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444367,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-106,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444369,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-106,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444397,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-107,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444399,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-107,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444425,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-108,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071444429,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-108,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444457,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-109,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444460,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-109,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444487,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-110,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071444489,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-110,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444516,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-111,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444519,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-111,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444545,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-112,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071444548,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-112,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444575,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-113,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071444578,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-113,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444606,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-114,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444608,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-114,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444635,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-115,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444637,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-115,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444666,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-116,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444669,3,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-116,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,3,0,0
+1792071444695,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-117,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071444698,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-117,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444726,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-118,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071444730,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-118,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444755,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-119,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444757,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-119,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444785,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-120,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444788,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-120,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444822,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-121,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444824,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-121,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444846,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-122,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444849,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-122,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444876,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-123,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444878,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-123,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071444907,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-124,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444910,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-124,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444937,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-125,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444939,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-125,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444968,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-126,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444970,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-126,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071444996,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-127,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071444998,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-127,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445027,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-128,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445030,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-128,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445057,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-129,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071445059,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-129,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445086,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-130,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445089,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-130,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445115,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-131,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445117,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-131,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445147,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-132,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071445149,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-132,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445176,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-133,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445178,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-133,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445205,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-134,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445207,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-134,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445235,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-135,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445237,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-135,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445273,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-136,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445276,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-136,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445297,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-137,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071445299,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-137,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445326,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-138,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445329,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-138,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445355,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-139,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445358,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-139,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445387,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-140,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445389,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-140,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445417,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-141,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071445419,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-141,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445446,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-142,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071445448,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-142,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445476,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-143,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445479,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-143,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445507,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-144,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445509,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-144,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445536,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-145,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445538,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-145,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445566,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-146,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071445570,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-146,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445595,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-147,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445598,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-147,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445626,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-148,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071445630,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-148,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445655,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-149,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071445658,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-149,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445686,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-150,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071445688,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-150,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445717,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-151,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445719,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-151,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445747,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-152,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445750,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-152,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445776,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-153,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071445779,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-153,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445806,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-154,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445809,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-154,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445836,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-155,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445838,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-155,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445867,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-156,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445870,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-156,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445897,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-157,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445900,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-157,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445927,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-158,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071445929,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-158,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071445955,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-159,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445958,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-159,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071445985,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-160,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071445987,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-160,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446015,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-161,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071446017,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-161,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446046,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-162,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071446048,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-162,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446077,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-163,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446079,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-163,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446107,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-164,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071446109,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-164,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446136,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-165,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446138,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-165,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446167,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-166,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446169,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-166,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446197,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-167,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446199,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-167,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446227,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-168,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446229,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-168,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446255,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-169,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446258,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-169,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446286,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-170,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446288,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-170,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446317,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-171,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446319,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-171,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446347,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-172,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446350,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-172,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446377,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-173,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071446381,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-173,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446406,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-174,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446409,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-174,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446437,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-175,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446440,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-175,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446467,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-176,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446470,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-176,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446497,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-177,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071446500,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-177,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446526,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-178,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446529,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-178,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446556,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-179,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071446558,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-179,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446587,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-180,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446589,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-180,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446616,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-181,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446618,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-181,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446645,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-182,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446647,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-182,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446676,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-183,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446678,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-183,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446707,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-184,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446709,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-184,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446737,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-185,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446740,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-185,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446765,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-186,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446768,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-186,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446796,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-187,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071446800,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-187,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446828,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-188,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446830,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-188,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446857,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-189,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446859,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-189,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446886,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-190,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071446888,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-190,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446915,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-191,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446918,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-191,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071446947,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-192,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071446949,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-192,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071446977,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-193,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071446980,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-193,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447006,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-194,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447008,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-194,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447036,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-195,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447038,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-195,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447065,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-196,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447068,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-196,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447099,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-197,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447101,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-197,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447128,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-198,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447130,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-198,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447155,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-199,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447157,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-199,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447186,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-200,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071447188,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-200,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447216,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-201,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071447218,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-201,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447246,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-202,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447248,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-202,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447275,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-203,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447278,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-203,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447307,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-204,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447310,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-204,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447337,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-205,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447339,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-205,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447366,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-206,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071447368,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-206,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447396,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-207,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071447398,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-207,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447427,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-208,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447429,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-208,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447457,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-209,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071447459,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-209,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447486,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-210,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071447488,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-210,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447529,5,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-211,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,5,0,3
+1792071447535,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-211,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447548,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-212,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447551,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-212,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447578,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-213,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071447582,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-213,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447606,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-214,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071447610,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-214,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447638,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-215,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071447642,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-215,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447667,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-216,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071447671,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-216,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447697,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-217,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447699,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-217,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447729,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-218,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071447732,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-218,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447757,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-219,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071447759,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-219,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447787,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-220,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447789,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-220,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447816,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-221,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447818,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-221,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447846,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-222,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447848,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-222,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447877,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-223,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071447879,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-223,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447907,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-224,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071447908,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-224,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071447935,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-225,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447937,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-225,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447966,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-226,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071447970,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-226,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071447997,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-227,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071447999,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-227,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448027,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-228,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071448030,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-228,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448057,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-229,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448059,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-229,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448087,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-230,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448090,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-230,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448117,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-231,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448119,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-231,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448147,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-232,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071448149,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-232,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448176,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-233,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071448179,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-233,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448207,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-234,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448210,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-234,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448237,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-235,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448239,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-235,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448267,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-236,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071448270,3,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-236,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,3,0,0
+1792071448295,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-237,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071448298,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-237,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448327,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-238,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071448329,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-238,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448356,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-239,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448358,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-239,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448385,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-240,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448387,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-240,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448415,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-241,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448417,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-241,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448445,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-242,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448447,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-242,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448476,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-243,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448479,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-243,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448507,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-244,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448510,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-244,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448535,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-245,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448538,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-245,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448566,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-246,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448569,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-246,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448595,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-247,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448597,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-247,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448626,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-248,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448628,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-248,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448656,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-249,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448658,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-249,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448686,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-250,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448688,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-250,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448717,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-251,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448719,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-251,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448747,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-252,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448749,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-252,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448775,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-253,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448777,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-253,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448806,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-254,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448808,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-254,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448837,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-255,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071448839,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-255,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448865,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-256,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448868,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-256,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448895,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-257,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448898,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-257,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448925,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-258,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448927,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-258,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071448956,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-259,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448958,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-259,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071448986,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-260,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071448988,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-260,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449015,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-261,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449017,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-261,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449045,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-262,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449048,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-262,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449075,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-263,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449078,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-263,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449106,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-264,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449108,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-264,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449135,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-265,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449138,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-265,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449165,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-266,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449168,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-266,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449195,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-267,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071449199,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-267,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449226,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-268,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449229,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-268,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449257,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-269,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449260,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-269,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449285,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-270,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449287,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-270,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449315,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-271,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449318,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-271,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449346,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-272,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449348,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-272,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449375,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-273,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449377,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-273,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449405,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-274,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449407,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-274,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449435,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-275,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449438,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-275,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449465,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-276,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449467,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-276,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449495,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-277,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449498,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-277,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449525,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-278,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449528,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-278,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449556,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-279,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449558,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-279,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449586,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-280,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449588,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-280,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449616,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-281,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449618,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-281,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449645,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-282,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449647,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-282,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449675,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-283,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449678,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-283,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449705,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-284,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071449708,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-284,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449736,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-285,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449739,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-285,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449767,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-286,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071449770,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-286,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449795,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-287,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449798,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-287,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449825,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-288,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449828,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-288,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449857,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-289,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449859,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-289,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449886,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-290,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449888,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-290,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071449915,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-291,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449917,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-291,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449945,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-292,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449947,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-292,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071449976,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-293,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071449979,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-293,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450005,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-294,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071450011,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-294,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450035,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-295,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450038,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-295,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450066,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-296,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450068,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-296,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450096,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-297,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450098,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-297,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450126,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-298,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071450130,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-298,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450155,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-299,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450157,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-299,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450185,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-300,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071450187,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-300,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450215,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-301,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071450217,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-301,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450246,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-302,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450248,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-302,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450276,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-303,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450278,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-303,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450305,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-304,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450307,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-304,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450336,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-305,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071450339,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-305,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450367,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-306,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450370,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-306,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450396,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-307,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450398,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-307,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450425,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-308,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071450429,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-308,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450455,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-309,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071450458,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-309,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450485,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-310,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450488,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-310,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450515,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-311,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450517,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-311,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450546,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-312,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450548,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-312,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450577,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-313,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071450579,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-313,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450606,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-314,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450608,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-314,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450636,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-315,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071450638,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-315,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450665,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-316,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450667,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-316,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071450695,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-317,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450697,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-317,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450727,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-318,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450730,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-318,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450756,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-319,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450758,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-319,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450785,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-320,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450787,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-320,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450815,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-321,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450818,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-321,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450845,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-322,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450848,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-322,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450876,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-323,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071450878,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-323,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450907,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-324,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071450909,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-324,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450936,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-325,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071450938,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-325,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450966,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-326,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071450969,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-326,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071450995,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-327,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071450997,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-327,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451027,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-328,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071451030,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-328,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451057,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-329,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451059,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-329,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451086,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-330,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071451089,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-330,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451116,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-331,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071451118,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-331,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451145,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-332,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451147,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-332,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451177,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-333,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451179,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-333,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451207,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-334,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451209,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-334,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451236,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-335,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451238,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-335,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451265,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-336,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451268,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-336,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451296,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-337,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071451300,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-337,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451327,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-338,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451329,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-338,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451356,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-339,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451358,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-339,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451386,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-340,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451388,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-340,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451416,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-341,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451418,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-341,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451446,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-342,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451448,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-342,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451476,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-343,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451478,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-343,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451507,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-344,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451509,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-344,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451537,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-345,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451539,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-345,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451565,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-346,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451568,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-346,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451595,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-347,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451598,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-347,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451625,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-348,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451627,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-348,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451655,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-349,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451658,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-349,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451687,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-350,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451689,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-350,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451717,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-351,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451719,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-351,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451746,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-352,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451749,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-352,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451775,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-353,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451777,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-353,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451805,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-354,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451807,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-354,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451836,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-355,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451838,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-355,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451867,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-356,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451869,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-356,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451897,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-357,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451899,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-357,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071451926,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-358,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071451928,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-358,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451956,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-359,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071451958,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-359,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071451986,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-360,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071451988,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-360,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452017,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-361,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452019,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-361,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452047,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-362,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452049,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-362,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452077,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-363,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452079,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-363,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452106,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-364,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452109,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-364,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452136,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-365,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452138,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-365,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452166,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-366,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452169,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-366,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452196,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-367,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071452199,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-367,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452226,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-368,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071452229,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-368,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452255,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-369,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452258,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-369,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452287,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-370,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452289,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-370,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452317,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-371,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452318,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-371,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452345,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-372,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452347,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-372,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452375,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-373,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452377,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-373,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452406,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-374,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452408,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-374,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452437,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-375,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452439,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-375,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452465,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-376,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452467,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-376,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452495,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-377,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452497,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-377,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452526,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-378,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452528,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-378,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452556,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-379,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452557,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-379,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452586,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-380,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452589,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-380,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452617,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-381,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071452619,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-381,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452645,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-382,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452648,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-382,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452675,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-383,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071452677,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-383,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452705,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-384,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452707,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-384,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452737,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-385,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452740,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-385,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452767,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-386,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452770,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-386,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452795,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-387,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452797,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-387,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452826,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-388,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452828,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-388,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452856,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-389,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452858,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-389,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452885,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-390,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452887,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-390,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452915,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-391,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452917,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-391,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071452946,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-392,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071452948,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-392,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071452976,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-393,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071452978,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-393,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453006,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-394,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453009,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-394,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453036,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-395,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071453038,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-395,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453065,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-396,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453067,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-396,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453097,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-397,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453100,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-397,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453127,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-398,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453129,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-398,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453156,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-399,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453158,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-399,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453186,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-400,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071453188,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-400,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453215,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-401,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453217,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-401,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453245,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-402,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453247,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-402,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453276,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-403,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453278,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-403,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453307,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-404,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071453309,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-404,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453335,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-405,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453337,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-405,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453365,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-406,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071453368,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-406,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453397,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-407,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453399,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-407,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453428,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-408,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453431,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-408,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453457,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-409,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071453459,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-409,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453485,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-410,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453487,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-410,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453515,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-411,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453517,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-411,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453545,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-412,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453548,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-412,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453578,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-413,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,2
+1792071453581,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-413,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453607,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-414,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071453609,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-414,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453635,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-415,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453638,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-415,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453665,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-416,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453667,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-416,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453695,4,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-417,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,4,0,3
+1792071453699,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-417,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453726,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-418,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453729,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-418,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453756,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-419,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453759,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-419,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453786,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-420,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453788,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-420,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453816,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-421,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071453818,4,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-421,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,4,0,0
+1792071453845,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-422,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453847,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-422,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453877,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-423,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071453879,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-423,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453907,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-424,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453909,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-424,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453936,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-425,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071453938,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-425,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071453965,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-426,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453967,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-426,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071453995,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-427,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071453997,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-427,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071454026,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-428,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071454029,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-428,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454056,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-429,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454058,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-429,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454086,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-430,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,3,0,1
+1792071454089,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-430,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454115,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-431,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454117,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-431,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454145,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-432,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454147,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-432,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071454177,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-433,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454179,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-433,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454207,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-434,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454209,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-434,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454236,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-435,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454237,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-435,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454265,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-436,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454267,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-436,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454297,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-437,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454299,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-437,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454326,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-438,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454328,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-438,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454358,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-439,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454360,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-439,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454388,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-440,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454390,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-440,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454415,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-441,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454417,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-441,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454445,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-442,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454447,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-442,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454475,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-443,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071454477,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-443,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454505,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-444,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454507,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-444,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454537,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-445,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454539,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-445,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454567,3,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-446,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454570,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-446,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454596,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-447,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454598,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-447,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454627,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-448,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454629,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-448,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454655,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-449,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454658,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-449,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454686,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-450,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454688,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-450,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454715,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-451,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454717,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-451,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454746,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-452,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454748,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-452,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454776,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-453,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454778,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-453,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454806,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-454,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454808,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-454,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454836,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-455,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454837,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-455,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071454866,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-456,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454868,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-456,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071454898,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-457,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454900,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-457,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454927,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-458,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071454929,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-458,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454956,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-459,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454958,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-459,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071454986,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-460,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071454988,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-460,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455015,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-461,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455017,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-461,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455045,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-462,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071455047,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-462,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455077,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-463,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455079,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-463,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455107,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-464,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455109,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-464,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455137,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-465,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071455139,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-465,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455167,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-466,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455169,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-466,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455196,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-467,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455198,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-467,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455226,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-468,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455228,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-468,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455257,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-469,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455258,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-469,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455285,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-470,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455287,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-470,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455316,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-471,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455318,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-471,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455346,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-472,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071455348,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-472,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455376,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-473,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071455378,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-473,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455407,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-474,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071455409,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-474,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455437,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-475,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071455439,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-475,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455465,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-476,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455468,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-476,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455496,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-477,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455498,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-477,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455525,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-478,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455527,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-478,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455556,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-479,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455558,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-479,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455587,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-480,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455590,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-480,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455617,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-481,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455619,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-481,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455646,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-482,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455648,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-482,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455675,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-483,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455677,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-483,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455705,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-484,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455707,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-484,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455737,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-485,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455739,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-485,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455767,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-486,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455769,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-486,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455795,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-487,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455798,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-487,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455825,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-488,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455827,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-488,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455855,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-489,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455857,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-489,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071455886,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-490,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455888,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-490,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455917,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-491,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071455919,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-491,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455947,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-492,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071455949,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-492,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071455976,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-493,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071455978,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-493,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,2,0,0
+1792071456006,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-494,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,1
+1792071456008,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-494,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456036,1,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-495,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,1,0,0
+1792071456038,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-495,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456066,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-496,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071456068,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-496,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456096,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-497,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071456099,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-497,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456127,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-498,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071456129,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-498,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456156,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-499,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,0
+1792071456158,1,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-499,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
+1792071456185,2,Login,200,OK,Estreno 500 usuarios / 15 segundos 1-500,text,true,,1150,244,1,1,http://127.0.0.1:3000/api/v1/auth/login,2,0,1
+1792071456187,2,Asientos disponibles,200,OK,Estreno 500 usuarios / 15 segundos 1-500,text,true,,1398,416,1,1,http://127.0.0.1:3000/api/v1/movies/1/seats,1,0,0
