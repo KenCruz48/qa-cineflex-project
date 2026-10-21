@@ -8,6 +8,7 @@ const sections = ["login", "catalog", "reservation", "ticket"];
 function show(name) {
   for (const s of sections) $(s + "-section").hidden = s !== name;
   $("logout-btn").hidden = !token;
+  window.scrollTo(0, 0);
 }
 function clearPrivate() {
   movies = [];

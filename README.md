@@ -19,6 +19,8 @@ npm start
 
 Abrir **http://127.0.0.1:3000**. Express sirve frontend y API desde el mismo origen. No se necesita Live Server.
 
+En Windows también puedes ejecutar `iniciar-cineflex.cmd`: instala las dependencias si faltan y arranca la aplicación. Mantén esa terminal abierta durante la demo.
+
 | Dato de prueba | Valor |
 |---|---|
 | Correo | `qa@cineflex.test` |
@@ -91,6 +93,8 @@ Reservas: 400 datos inválidos, 402 tarjeta rechazada, 404 película inexistente
 
 ## Ejecutar pruebas
 
+**Validación completa con un comando:** `npm run qa`. Ejecuta Supertest, Newman y Selenium; crea y cierra servidores con bases en memoria, guarda el informe Newman en `reports/newman.json` y devuelve error si alguna suite falla. No requiere iniciar la demo por separado. JMeter se ejecuta aparte siguiendo la sección de rendimiento.
+
 ```sh
 # No requiere servidor: usa bases aisladas
 npm test
@@ -138,9 +142,9 @@ La imagen renderiza el componente Summary Report de JMeter con las muestras real
 
 ## Continuous Testing
 
-GitHub Actions ejecuta con cada push y pull request: instalación `npm ci`, Supertest, arranque con healthcheck, Newman y Selenium. Un fallo marca el job `qa` como fallido y conserva diagnósticos.
+GitHub Actions ejecuta con cada push y pull request: instalación `npm ci` y `npm run qa` (Supertest, Newman y Selenium con datos aislados). Un fallo marca el job `qa` como fallido. El informe de Newman y las capturas de fallo se conservan como artefactos de la ejecución.
 
-**Para impedir merges con fallos:** en GitHub, Settings → Rules → Rulesets, crear una regla para `main`, exigir pull request y el status check `qa`. El YAML por sí solo no impide un merge manual o administrativo. No se ha modificado la política de protección del repositorio.
+**Protección de integración:** `main` exige un pull request, la rama actualizada y el check `qa` aprobado antes de integrar cambios. La regla también se aplica a administradores; no se permiten borrados ni force push. Se puede consultar en GitHub → Settings → Branches. No se exige la aprobación de otro integrante para que un equipo pequeño pueda trabajar sin bloquearse.
 
 ## Entrega y limitaciones
 

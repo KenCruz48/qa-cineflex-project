@@ -13,25 +13,10 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      - name: Seguridad y reglas de reservas
-        run: npm test
-      - name: Iniciar mock y esperar disponibilidad
-        run: |
-          DB_PATH=:memory: npm start > backend.log 2>&1 &
-          for i in $(seq 1 30); do
-            if curl -fsS http://127.0.0.1:3000/api/health; then exit 0; fi
-            sleep 1
-          done
-          cat backend.log
-          exit 1
-      - name: Newman
-        run: npm run test:api
-      - name: Selenium POM
-        run: npm run test:ui
+      - name: Supertest, Newman y Selenium con datos aislados
+        run: npm run qa
       - uses: actions/upload-artifact@v4
-        if: failure()
+        if: always()
         with:
-          name: diagnostico-qa
-          path: |
-            reports/
-            backend.log
+          name: evidencias-qa
+          path: reports/

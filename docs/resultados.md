@@ -31,3 +31,9 @@ La imagen se obtuvo renderizando el componente Swing SummaryReport de JMeter con
 ## GitHub Actions
 
 La [primera ejecución de CI](https://github.com/KenCruz48/qa-cineflex-project/actions/runs/38744328203) del commit `1d4e494` terminó correctamente en GitHub: Supertest, Newman y Selenium. El badge del README muestra el estado de la rama más reciente.
+
+## Cierre de validación del 21 de octubre de 2026
+
+El rediseño de ingreso, cartelera, reserva y ticket está publicado. La [ejecución del rediseño](https://github.com/KenCruz48/qa-cineflex-project/actions/runs/38746423193) terminó aprobada. Se agregó `npm run qa` para repetir todas las suites con servidores aislados y `iniciar-cineflex.cmd` para arrancar desde Windows. Las métricas de carga anteriores conservan su fecha y no se presentan como mediciones nuevas.
+
+El único entregable que depende del equipo es la grabación y publicación del video de sustentación. La guía de tiempos está en `docs/sustentacion.md`.
