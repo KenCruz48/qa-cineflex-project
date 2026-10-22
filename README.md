@@ -1,6 +1,7 @@
 # CineFlex - QA en producción
 
-**Video de sustentación (máximo 3 minutos): pendiente de grabación y enlace público por el equipo.**
+****Video de sustentación (máximo 3 minutos):** [Ver video en Google Drive](https://drive.google.com/drive/folders/10OBW_rFGD74-RA9hEsvyDasQo4sqIcjD?usp=sharing)
+
 
 [![CineFlex QA](https://github.com/KenCruz48/qa-cineflex-project/actions/workflows/qa-pipeline.yml/badge.svg)](https://github.com/KenCruz48/qa-cineflex-project/actions/workflows/qa-pipeline.yml)
 
